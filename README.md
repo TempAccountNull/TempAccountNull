@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <h3 align="center">Hello World!<h3> 
-<h3 align="center;bold">A Machine & Computer Reverse Engineer Enthusiast!</h3>
+<h3 align="center">A Machine & Computer Reverse Engineer Enthusiast!</h3>
 
  <h3 align="center">Thanks!</h3>
     
