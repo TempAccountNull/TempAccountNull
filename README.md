@@ -10,7 +10,7 @@
     <br>
     <img height="278em" src="https://github-readme-streak-stats.herokuapp.com/?user=TempAccountNull&layout=compact&theme=radical&count_private=true" alt="TempAccountNull" /> 
     <br>
-    <img height="285em" src="https://github-trophies.vercel.app/?username=TempAccountNull&theme=radical&margin-w=15&margin-h=15&count_private=true" alt="TempAccountNull" /> 
+    <img height="400em" src="https://github-trophies.vercel.app/?username=TempAccountNull&theme=radical&margin-w=15&margin-h=15&count_private=true" alt="TempAccountNull" /> 
 </div> 
 
 </body>
