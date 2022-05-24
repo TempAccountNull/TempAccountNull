@@ -1,6 +1,4 @@
 <head>
-<div class="animated_rainbow_1">Hello World!</div>
-
 <style>
 .animated_rainbow_1 {
     font-size: 42px;
@@ -17,6 +15,7 @@
     100% { background-position: -500px 0 }
 }
 </style>
+<div class="animated_rainbow_1">Hello World!</div>
     
 
 <!DOCTYPE html>
