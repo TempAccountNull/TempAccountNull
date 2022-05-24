@@ -1,4 +1,4 @@
-
+<head>
 <div class="animated_rainbow_1">Hello World!</div>
 
 <style>
@@ -36,4 +36,4 @@
 
 </body>
 </html>
-
+</head>
