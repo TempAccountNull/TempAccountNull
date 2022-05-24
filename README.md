@@ -6,7 +6,7 @@
 # Trophys 🏆
 <div>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TempAccountNull&show_icons=true&theme=radical&include_all_commits=true&count_private=true&margin-w=45&margin-h=15" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TempAccountNull&layout=compact&theme=radical&margin-w=45&margin-h=18" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TempAccountNull&layout=compact&theme=radical&margin-w=45&margin-h=200" />
     <br>
     <img height="260em" src="https://github-trophies.vercel.app/?username=TempAccountNull&theme=radical&margin-w=45&margin-h=15" alt="TempAccountNull" /> 
 </div> 
