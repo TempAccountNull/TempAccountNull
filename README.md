@@ -9,7 +9,6 @@
     <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TempAccountNull&layout=compact&langs_count=8&theme=radical&count_private=true" />
     <br>
     <img height="399em" src="https://github-readme-streak-stats.herokuapp.com/?user=TempAccountNull&layout=compact&theme=radical&count_private=true" alt="TempAccountNull" /> 
-    <br>
     <img height="400em" src="https://github-trophies.vercel.app/?username=TempAccountNull&theme=radical&margin-w=15&margin-h=15&count_private=true" alt="TempAccountNull" /> 
 </div> 
 
