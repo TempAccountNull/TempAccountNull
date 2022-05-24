@@ -1,6 +1,6 @@
 
 <h3 align="center">Hello World!<h3> 
-<h3 align="center">A Computer Enthusiast!</h3>
+<h3 align="center">A Machine & Computer Reverse Engineer Enthusiast!</h3>
 
 # Trophys 🏆
 <div>
