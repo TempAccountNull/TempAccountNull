@@ -3,8 +3,6 @@
 <h3 align="center">A Computer Enthusiast!</h3>
 
 # Trophys 🏆
-<div align="center">
-  <p>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TempAccountNull&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
     <br/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TempAccountNull&layout=compact&langs_count=8&theme=radical&count_private=true" />
