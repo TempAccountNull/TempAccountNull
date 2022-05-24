@@ -21,7 +21,7 @@
     
   <p> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=TempAccountNull&theme=radical&margin-w=15&margin-h=15&count_private=true" alt="TempAccountNull" />
+      <img src="https://github-trophies.vercel.app/?username=TempAccountNull&theme=radical&margin-w=15&margin-h=15&count_private=true" alt="TempAccountNull" />
     </a>
   </p>
 </div> 
