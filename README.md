@@ -11,6 +11,6 @@
     &nbsp;&nbsp;
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TempAccountNull&layout=compact&theme=radical&count_private=true" alt="TempAccountNull" /> 
     &nbsp;&nbsp;
-    <img height="180em" src="https://github-trophies.vercel.app/?username=TempAccountNull&theme=radical&margin-w=15&margin-h=15&count_private=true" alt="TempAccountNull" /> 
+    <img height="200em" src="https://github-trophies.vercel.app/?username=TempAccountNull&theme=radical&margin-w=15&margin-h=15&count_private=true" alt="TempAccountNull" /> 
 
 </div> 
