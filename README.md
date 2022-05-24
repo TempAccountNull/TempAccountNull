@@ -14,7 +14,7 @@
   <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TempAccountNull&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
     <br/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TempAccountNull&layout=compact&langs_count=8&theme=radical&hide=java,ruby" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TempAccountNull&layout=compact&langs_count=8&theme=radical" />
     &nbsp;&nbsp;
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TempAccountNull&layout=compact&theme=radical" alt="TempAccountNull" /> 
   </p>
