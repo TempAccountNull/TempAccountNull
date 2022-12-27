@@ -3,7 +3,7 @@
 <h3 align="center">Hello World!<h3> 
 <h3 align="center">A Machine & Computer Reverse Engineer Enthusiast!</h3>
 
- <h3 align="center">Thanks!</h3>
+ <h3 align="center">This github has been created purely for the purposes of academic research. It is not intended to be used to harm others nor other games/software. It is to better my research on how things work. Thank you for understanding.</h3>
     
 # Trophys 🏆
 <div>
