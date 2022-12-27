@@ -4,7 +4,7 @@
 <h3 align="center">A Machine & Computer Reverse Engineer Enthusiast!</h3>
 
  <h3 align="center">This github has been created purely for the purposes of academic research.</h3>
- <h3 align="center">My git repos are not intended to be used to harm others or other games & software. It is to simply understand and report my research on how things work. Thank you for understanding.</h3>
+ <h3 align="center">My git repos are not intended to be used to harm others or other games & software. It is to simply understand and report my research on how things work.</h3>
   <h3 align="center">Thank you for understanding.</h3>
     
 # Trophys 🏆
