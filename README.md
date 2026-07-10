@@ -20,16 +20,17 @@
 
 ## What I Work On
 
-- Reverse engineering native applications, binaries, and protected software
-- Windows kernel drivers and IOCTL interfaces
-- BYOVD identification and vulnerable-driver research
+- Reverse engineering native applications, browsers, Windows drivers, and binary interfaces
 - Browser security research involving Firefox, SpiderMonkey, Chromium, and related components
-- Source-code auditing of large C and C++ codebases
-- Fuzzing harness development with AFL++, WinAFL, sanitizers, and custom tooling
+- Windows kernel driver, IOCTL, BYOVD, and vulnerable-driver research
+- Large-scale C and C++ source-code auditing
+- Fuzzing harness development using AFL++, WinAFL, sanitizers, and custom tooling
 - Crash triage, root-cause analysis, and exploitability assessment
 - Proof-of-concept development for authorized testing and responsible disclosure
 - Threat-intelligence enrichment and driver reputation analysis
-- Security research tools that combine static analysis, emulation, fuzzing, and automation
+- Building custom security tools that combine static analysis, emulation, fuzzing, scanning, logging, and automation
+- Responsible and coordinated vulnerability disclosure
+- Focused on protecting users by helping vendors identify, validate, and remediate security vulnerabilities
 
 ## Tools and Research Projects
 
