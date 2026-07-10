@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=900&color=8B80F9&center=true&vCenter=true&repeat=true&width=650&height=70&lines=Reverse+engineering+and+security+research;Building+defensive+security+tools;Break+it.+Verify+it.+Report+it.+Help+fix+it."
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=900&color=8B80F9&center=true&vCenter=true&repeat=true&width=650&height=70&lines=Reverse+engineering+and+security+research;Building+defensive+security+tools+for+the+future;Break+it.+Verify+it.+Report+it.+Help+fix+it."
   alt="Research focus"
 />
 
@@ -103,24 +103,6 @@ I am also interested in eventually working alongside a larger security team or b
 a security research firm of my own. The long-term goal is to create tools and research
 workflows that help identify serious vulnerabilities earlier, make disclosure easier,
 and reduce the amount of vulnerable software available for attackers to abuse.
-
-## GitHub Statistics
-
-<div align="center">
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=TempAccountNull&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"
-    alt="TempAccountNull GitHub statistics"
-  />
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TempAccountNull&layout=compact&theme=midnight-purple&hide_border=true"
-    alt="Most-used languages"
-  />
-
-</div>
 
 ## Achievements
 
