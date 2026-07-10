@@ -5,21 +5,17 @@
   alt="Research focus"
 />
 
-  <h2>Independent Security Researcher and Reverse Engineer</h2>
+<h2>Independent Security Researcher & Reverse Engineer</h2>
 
+> I believe the best security research doesn't stop at finding vulnerabilities—  
+> <ins>**It helps vendors understand them, fix them, and ultimately makes software safer for everyone**</ins>.
+
+Getting vulnerabilities fixed matters more to me than the size of a bounty. Rewards are appreciated because they help support the hardware, software, and tools needed to continue security research, but protecting users and improving security will always remain the top priority.
 </div>
 
+## Research Focus
+
 - More than 20 years of reverse engineering experience
-- Browser security research and large C/C++ codebase auditing
-- Windows driver and IOCTL analysis
-- BYOVD identification and defensive driver research
-- Fuzzing harness development, crash triage, and exploitability analysis
-- Custom security tooling, emulators, scanners, loggers, and research automation
-- Responsible and coordinated vulnerability disclosure
-- Focused on getting vulnerabilities fixed and protecting users, not bounty amounts
-
-## What I Work On
-
 - Reverse engineering native applications, browsers, Windows drivers, and binary interfaces
 - Browser security research involving Firefox, SpiderMonkey, Chromium, and related components
 - Windows kernel driver, IOCTL, BYOVD, and vulnerable-driver research
@@ -30,40 +26,41 @@
 - Threat-intelligence enrichment and driver reputation analysis
 - Building custom security tools that combine static analysis, emulation, fuzzing, scanning, logging, and automation
 - Responsible and coordinated vulnerability disclosure
-- Focused on protecting users by helping vendors identify, validate, and remediate security vulnerabilities
+- Helping vendors identify, validate, and remediate vulnerabilities before they can affect users
 
-## Tools and Research Projects
+## Tools & Research
 
 A large part of my work involves building the tools I wish already existed.
 
-Some of my projects and ongoing research include:
+Rather than solving the same problem repeatedly by hand, I prefer to automate the research process whenever possible. Many of my projects began because an existing workflow was too slow, lacked the information I needed, or required too many repetitive steps.
 
-- A BYOVD identification and analysis toolkit
+Some of my current projects and research areas include:
+
+- BYOVD identification and vulnerable-driver analysis
 - Automated IOCTL discovery and handler analysis
 - Non-live driver emulation and fuzzing
 - Dangerous kernel primitive detection
-- Driver threat-intelligence and reputation lookups
-- Fuzzing harness collections for browsers, libraries, codecs, parsers, and native components
+- Driver reputation and threat-intelligence analysis
+- Browser and native-code fuzzing harnesses
 - Crash reproduction and verification pipelines
 - Hypervisor and IOCTL logging tools
 - Reverse-engineering utilities, unpackers, pattern scanners, and binary-analysis helpers
-- Internal tools for organizing vulnerability findings and disclosure reports
-
-Many of these projects started because I ran into the same problem repeatedly and decided
-it would be faster to automate the entire workflow rather than solve it manually every time.
+- Static analysis, emulation, fuzzing, and triage workflows
+- Internal tooling for organizing findings, evidence, reports, and coordinated disclosures
 
 ## How I Approach Research
 
-My process is usually simple:
+My process is usually straightforward:
 
 1. Learn how the target works.
 2. Identify the exposed interfaces and attack surface.
-3. Build or adapt tooling to test it properly.
+3. Build or adapt the tooling needed to test it properly.
 4. Reproduce and verify anything suspicious.
-5. Separate real security issues from crashes, false positives, and expected behavior.
-6. Prepare a clear report with enough evidence for the vendor to reproduce it.
-7. Coordinate disclosure and wait for a patch before publishing sensitive details.
-8. Feed what I learned back into my tools so the next investigation is faster.
+5. Separate genuine security issues from crashes, false positives, and expected behavior.
+6. Determine the root cause and assess the potential security impact.
+7. Prepare a clear report with enough technical evidence for the vendor to reproduce the issue.
+8. Coordinate disclosure and avoid publishing sensitive details before remediation.
+9. Feed what I learned back into my tools so the next investigation is faster and more reliable.
 
 ## Responsible Disclosure
 
@@ -72,38 +69,40 @@ My repositories and research are intended for:
 - Authorized vulnerability research
 - Defensive security analysis
 - Education and interoperability
-- Research on software and systems I own or am permitted to test
-- Coordinated and responsible vulnerability disclosure
+- Research on software and systems I own or am explicitly permitted to test
+- Responsible and coordinated vulnerability disclosure
 
-They are not intended to facilitate unauthorized access, harm users, disrupt services,
-or provide unpatched vulnerabilities to malicious actors.
+My work is not intended to facilitate unauthorized access, harm users, disrupt services, or expose unpatched vulnerabilities for malicious use.
 
-I have submitted findings through vendor security teams, coordinated disclosure programs,
-and platforms such as Mozilla Bugzilla, HackerOne, Bugcrowd, ZDI, and direct PSIRT channels.
+I have submitted findings through vendor security teams, coordinated disclosure programs, and platforms such as Mozilla Bugzilla, HackerOne, Bugcrowd, ZDI, and direct PSIRT channels.
 
-Some findings remain private while vendors investigate, prepare patches, or complete
-their disclosure and CVE processes.
+Some findings remain private while vendors investigate, prepare patches, coordinate public disclosure, or complete the CVE assignment process.
 
 ## Research Principles
 
 - Protect users first
-- Test only what I own or am authorized to analyze
+- Test only software and systems I own or am authorized to analyze
 - Verify findings before reporting them
 - Avoid publishing sensitive details before remediation
 - Give vendors clear, reproducible technical evidence
+- Distinguish real vulnerabilities from false positives and non-security failures
 - Credit the researchers and projects whose work contributes to mine
 - Build reusable tools instead of repeatedly solving the same problem by hand
 - Keep learning, because every target teaches me something new
+- Focus on improving security rather than chasing bounty amounts
 
 ## Looking Ahead
 
-I want to continue expanding my research into larger browser codebases, Windows internals,
-driver security, automated vulnerability discovery, and more advanced fuzzing and emulation.
+Security research is something I genuinely enjoy, and I am always looking for new areas to learn.
 
-I am also interested in eventually working alongside a larger security team or building
-a security research firm of my own. The long-term goal is to create tools and research
-workflows that help identify serious vulnerabilities earlier, make disclosure easier,
-and reduce the amount of vulnerable software available for attackers to abuse.
+As my work continues to grow, I want to expand further into browser internals, Windows kernel security, driver analysis, automated vulnerability discovery, advanced fuzzing, emulation, and large-scale source-code auditing.
+
+I also want to continue improving the toolsets I have built so they can identify risky behavior earlier, reduce repetitive work, make findings easier to validate, and help produce clearer disclosures for vendors.
+
+Long term, I hope to collaborate with a larger security research team or establish a security research firm of my own. I want that work to focus on helping vendors identify, understand, and remediate vulnerabilities before they can be abused.
+
+No matter where that path leads, my goal remains the same: learn how things work, build better tools, responsibly report what I find, and help make software safer for everyone.
+
 
 ## Achievements
 
